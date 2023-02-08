@@ -7,7 +7,7 @@ import Navigation from "./Navigation";
 const Header = ({ history, handleSubmit }) => {
   return (
     <div>
-      <h1>SnapShot</h1>
+      <h1>Snap_With_sainath</h1>
       <Form history={history} handleSubmit={handleSubmit} />
       <Navigation />
       
